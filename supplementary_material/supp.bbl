@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{isola2017image}
+Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei~A Efros.
+\newblock Image-to-image translation with conditional adversarial networks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1125--1134, 2017.
+
+\bibitem{miyato2018spectral}
+Takeru Miyato, Toshiki Kataoka, Masanori Koyama, and Yuichi Yoshida.
+\newblock Spectral normalization for generative adversarial networks.
+\newblock {\em arXiv preprint arXiv:1802.05957}, 2018.
+
+\end{thebibliography}
