@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: paper.aux
+The style file: plain.bst
+Illegal, another \bibstyle command---line 250 of file paper.aux
+ : \bibstyle
+ :          {ieee_fullname}
+I'm skipping whatever remains of this command
+Database file #1: egbib.bib
+Repeated entry---line 113 of file egbib.bib
+ : @inproceedings{farbman2008edge
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 543 of file egbib.bib
+ : @article{bi20151
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1079 of file egbib.bib
+ : @inproceedings{xu2011image
+ :                           ,
+I'm skipping whatever remains of this entry
+Warning--there's a number but no volume in comaniciu2002mean
+Warning--can't use both volume and number fields in farbman2008edge
+Warning--can't use both volume and number fields in tomasi1998bilateral
+Warning--can't use both volume and number fields in wang2004video
+Warning--can't use both volume and number fields in xu2011image
+You've used 50 entries,
+            2118 wiz_defined-function locations,
+            756 strings with 12916 characters,
+and the built_in function-call counts, 23865 in all, are:
+= -- 2390
+> -- 1164
+< -- 42
++ -- 462
+- -- 406
+* -- 1632
+:= -- 3581
+add.period$ -- 168
+call.type$ -- 50
+change.case$ -- 352
+chr.to.int$ -- 0
+cite$ -- 55
+duplicate$ -- 991
+empty$ -- 1807
+format.name$ -- 406
+if$ -- 5274
+int.to.chr$ -- 0
+int.to.str$ -- 50
+missing$ -- 50
+newline$ -- 253
+num.names$ -- 100
+pop$ -- 448
+preamble$ -- 1
+purify$ -- 302
+quote$ -- 0
+skip$ -- 800
+stack$ -- 0
+substring$ -- 1568
+swap$ -- 428
+text.length$ -- 42
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 200
+warning$ -- 5
+while$ -- 216
+width$ -- 52
+write$ -- 570
+(There were 4 error messages)

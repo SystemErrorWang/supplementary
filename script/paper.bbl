@@ -1,0 +1,316 @@
+\begin{thebibliography}{10}
+
+\bibitem{abadi2016tensorflow}
+Mart{\'\i}n Abadi, Paul Barham, Jianmin Chen, Zhifeng Chen, Andy Davis, Jeffrey
+  Dean, Matthieu Devin, Sanjay Ghemawat, Geoffrey Irving, Michael Isard, et~al.
+\newblock Tensorflow: A system for large-scale machine learning.
+\newblock In {\em 12th Symposium on Operating Systems Design and
+  Implementation}, pages 265--283, 2016.
+
+\bibitem{achanta2012slic}
+Radhakrishna Achanta, Appu Shaji, Kevin Smith, Aurelien Lucchi, Pascal Fua, and
+  Sabine S{\"u}sstrunk.
+\newblock Slic superpixels compared to state-of-the-art superpixel methods.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  34(11):2274--2282, 2012.
+
+\bibitem{aly2005image}
+Hussein~A Aly and Eric Dubois.
+\newblock Image up-sampling using total-variation regularization with a new
+  observation model.
+\newblock {\em IEEE Transactions on Image Processing}, 14(10):1647--1659, 2005.
+
+\bibitem{bi20151}
+Sai Bi, Xiaoguang Han, and Yizhou Yu.
+\newblock An l 1 image transform for edge-preserving smoothing and scene-level
+  intrinsic decomposition.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 34(4):78, 2015.
+
+\bibitem{chen2018cartoongan}
+Yang Chen, Yu-Kun Lai, and Yong-Jin Liu.
+\newblock Cartoongan: Generative adversarial networks for photo cartoonization.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 9465--9474, 2018.
+
+\bibitem{comaniciu2002mean}
+Dorin Comaniciu and Peter Meer.
+\newblock Mean shift: A robust approach toward feature space analysis.
+\newblock {\em IEEE Transactions on Pattern Analysis \& Machine Intelligence},
+  (5):603--619, 2002.
+
+\bibitem{curtis1997computer}
+Cassidy~J Curtis, Sean~E Anderson, Joshua~E Seims, Kurt~W Fleischer, and
+  David~H Salesin.
+\newblock Computer-generated watercolor.
+\newblock In {\em Proceedings of the 24th annual conference on Computer
+  graphics and interactive techniques}, pages 421--430. ACM
+  Press/Addison-Wesley Publishing Co., 1997.
+
+\bibitem{dumoulin2016learned}
+Vincent Dumoulin, Jonathon Shlens, and Manjunath Kudlur.
+\newblock A learned representation for artistic style.
+\newblock {\em arXiv preprint arXiv:1610.07629}, 2016.
+
+\bibitem{fan2017generic}
+Qingnan Fan, Jiaolong Yang, Gang Hua, Baoquan Chen, and David Wipf.
+\newblock A generic deep architecture for single image reflection removal and
+  image smoothing.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 3238--3247, 2017.
+
+\bibitem{fan2018image}
+Qingnan Fan, Jiaolong Yang, David Wipf, Baoquan Chen, and Xin Tong.
+\newblock Image smoothing via unsupervised learning.
+\newblock In {\em SIGGRAPH Asia 2018 Technical Papers}, page 259. ACM, 2018.
+
+\bibitem{farbman2008edge}
+Zeev Farbman, Raanan Fattal, Dani Lischinski, and Richard Szeliski.
+\newblock Edge-preserving decompositions for multi-scale tone and detail
+  manipulation.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, volume~27, page~67. ACM,
+  2008.
+
+\bibitem{felzenszwalb2004efficient}
+Pedro~F Felzenszwalb and Daniel~P Huttenlocher.
+\newblock Efficient graph-based image segmentation.
+\newblock {\em International Journal of Computer Vision}, 59(2):167--181, 2004.
+
+\bibitem{gatys2015neural}
+Leon~A Gatys, Alexander~S Ecker, and Matthias Bethge.
+\newblock A neural algorithm of artistic style.
+\newblock {\em arXiv preprint arXiv:1508.06576}, 2015.
+
+\bibitem{goodfellow2014generative}
+Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock Generative adversarial nets.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  2672--2680, 2014.
+
+\bibitem{he2010guided}
+Kaiming He, Jian Sun, and Xiaoou Tang.
+\newblock Guided image filtering.
+\newblock In {\em European Conference on Computer Vision}, pages 1--14.
+  Springer, 2010.
+
+\bibitem{heusel2017gans}
+Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, and Sepp
+  Hochreiter.
+\newblock Gans trained by a two time-scale update rule converge to a local nash
+  equilibrium.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  6626--6637, 2017.
+
+\bibitem{huang2017arbitrary}
+Xun Huang and Serge Belongie.
+\newblock Arbitrary style transfer in real-time with adaptive instance
+  normalization.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 1501--1510, 2017.
+
+\bibitem{huang2018multimodal}
+Xun Huang, Ming-Yu Liu, Serge Belongie, and Jan Kautz.
+\newblock Multimodal unsupervised image-to-image translation.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 172--189, 2018.
+
+\bibitem{ignatov2018wespe}
+Andrey Ignatov, Nikolay Kobyshev, Radu Timofte, Kenneth Vanhoey, and Luc
+  Van~Gool.
+\newblock Wespe: weakly supervised photo enhancer for digital cameras.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition Workshops}, pages 691--700, 2018.
+
+\bibitem{isola2017image}
+Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei~A Efros.
+\newblock Image-to-image translation with conditional adversarial networks.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1125--1134, 2017.
+
+\bibitem{johnson2016perceptual}
+Justin Johnson, Alexandre Alahi, and Li~Fei-Fei.
+\newblock Perceptual losses for real-time style transfer and super-resolution.
+\newblock In {\em European Conference on Computer Vision}, pages 694--711.
+  Springer, 2016.
+
+\bibitem{karras2019style}
+Tero Karras, Samuli Laine, and Timo Aila.
+\newblock A style-based generator architecture for generative adversarial
+  networks.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 4401--4410, 2019.
+
+\bibitem{kingma2014adam}
+Diederik~P Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{lee2018diverse}
+Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Maneesh Singh, and Ming-Hsuan
+  Yang.
+\newblock Diverse image-to-image translation via disentangled representations.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 35--51, 2018.
+
+\bibitem{levinshtein2009turbopixels}
+Alex Levinshtein, Adrian Stere, Kiriakos~N Kutulakos, David~J Fleet, Sven~J
+  Dickinson, and Kaleem Siddiqi.
+\newblock Turbopixels: Fast superpixels using geometric flows.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  31(12):2290--2297, 2009.
+
+\bibitem{li2019im2pencil}
+Yijun Li, Chen Fang, Aaron Hertzmann, Eli Shechtman, and Ming-Hsuan Yang.
+\newblock Im2pencil: Controllable pencil illustration from photographs.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1525--1534, 2019.
+
+\bibitem{li2017universal}
+Yijun Li, Chen Fang, Jimei Yang, Zhaowen Wang, Xin Lu, and Ming-Hsuan Yang.
+\newblock Universal style transfer via feature transforms.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  386--396, 2017.
+
+\bibitem{lin2014microsoft}
+Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva
+  Ramanan, Piotr Doll{\'a}r, and C~Lawrence Zitnick.
+\newblock Microsoft coco: Common objects in context.
+\newblock In {\em European Conference on Computer Vision}, pages 740--755.
+  Springer, 2014.
+
+\bibitem{lu2012combining}
+Cewu Lu, Li~Xu, and Jiaya Jia.
+\newblock Combining sketch and tone for pencil drawing production.
+\newblock In {\em Proceedings of the Symposium on Non-Photorealistic Animation
+  and Rendering}, pages 65--73. Eurographics Association, 2012.
+
+\bibitem{min2014fast}
+Dongbo Min, Sunghwan Choi, Jiangbo Lu, Bumsub Ham, Kwanghoon Sohn, and Minh~N
+  Do.
+\newblock Fast global image smoothing based on weighted least squares.
+\newblock {\em IEEE Transactions on Image Processing}, 23(12):5638--5653, 2014.
+
+\bibitem{moore2008superpixel}
+Alastair~P Moore, Simon~JD Prince, Jonathan Warrell, Umar Mohammed, and Graham
+  Jones.
+\newblock Superpixel lattices.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 1--8. Citeseer, 2008.
+
+\bibitem{mori2005guiding}
+Greg Mori.
+\newblock Guiding model search using segmentation.
+\newblock In {\em Proceedings of IEEE International Conference on Computer
+  Vision}, volume~2, pages 1417--1423. IEEE, 2005.
+
+\bibitem{pathak2016context}
+Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, and Alexei~A
+  Efros.
+\newblock Context encoders: Feature learning by inpainting.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 2536--2544, 2016.
+
+\bibitem{rosin2015non}
+Paul~L Rosin and Yu-Kun Lai.
+\newblock Non-photorealistic rendering of portraits.
+\newblock In {\em Proceedings of the workshop on Computational Aesthetics},
+  pages 159--170. Eurographics Association, 2015.
+
+\bibitem{sanakoyeu2018style}
+Artsiom Sanakoyeu, Dmytro Kotovenko, Sabine Lang, and Bjorn Ommer.
+\newblock A style-aware content loss for real-time hd style transfer.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 698--714, 2018.
+
+\bibitem{shahcheraghi2013effects}
+Zoya Shahcheraghi and John See.
+\newblock On the effects of pre-and post-processing in video cartoonization
+  with bilateral filters.
+\newblock In {\em Proceedings of IEEE International Conference on Signal and
+  Image Processing Applications}, pages 37--42. IEEE, 2013.
+
+\bibitem{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{szegedy2016rethinking}
+Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jon Shlens, and Zbigniew
+  Wojna.
+\newblock Rethinking the inception architecture for computer vision.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 2818--2826, 2016.
+
+\bibitem{tomasi1998bilateral}
+Carlo Tomasi and Roberto Manduchi.
+\newblock Bilateral filtering for gray and color images.
+\newblock In {\em International Journal of Computer Vision}, volume~98, page~2,
+  1998.
+
+\bibitem{uijlings2013selective}
+Jasper~RR Uijlings, Koen~EA Van De~Sande, Theo Gevers, and Arnold~WM Smeulders.
+\newblock Selective search for object recognition.
+\newblock {\em International Journal of Computer Vision}, 104(2):154--171,
+  2013.
+
+\bibitem{van2004real}
+Tom Van~Laerhoven, Jori Liesenborgs, and Frank Van~Reeth.
+\newblock Real-time watercolor painting on a distributed paper model.
+\newblock In {\em Proceedings Computer Graphics International, 2004.}, pages
+  640--643. IEEE, 2004.
+
+\bibitem{vedaldi2008quick}
+Andrea Vedaldi and Stefano Soatto.
+\newblock Quick shift and kernel methods for mode seeking.
+\newblock In {\em European Conference on Computer Vision}, pages 705--718.
+  Springer, 2008.
+
+\bibitem{wang2004video}
+Jue Wang, Yingqing Xu, Heung-Yeung Shum, and Michael~F Cohen.
+\newblock Video tooning.
+\newblock In {\em ACM Transactions on Graphics (ToG)}, volume~23, pages
+  574--583. ACM, 2004.
+
+\bibitem{wu2018fast}
+Huikai Wu, Shuai Zheng, Junge Zhang, and Kaiqi Huang.
+\newblock Fast end-to-end trainable guided filter.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1838--1847, 2018.
+
+\bibitem{xu2011image}
+Li~Xu, Cewu Lu, Yi~Xu, and Jiaya Jia.
+\newblock Image smoothing via l 0 gradient minimization.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, volume~30, page 174.
+  ACM, 2011.
+
+\bibitem{xu2015deep}
+Li~Xu, Jimmy Ren, Qiong Yan, Renjie Liao, and Jiaya Jia.
+\newblock Deep edge-aware filters.
+\newblock In {\em International Conference on Machine Learning}, pages
+  1669--1678, 2015.
+
+\bibitem{yang2010semantics}
+Ming Yang, Shu Lin, Ping Luo, Liang Lin, and Hongyang Chao.
+\newblock Semantics-driven portrait cartoon stylization.
+\newblock In {\em Proceedings of IEEE International Conference on Image
+  Processing}, pages 1805--1808. IEEE, 2010.
+
+\bibitem{zhang2018two}
+Lvmin Zhang, Chengze Li, Tien-Tsin Wong, Yi~Ji, and Chunping Liu.
+\newblock Two-stage sketch colorization.
+\newblock In {\em SIGGRAPH Asia 2018 Technical Papers}, page 261. ACM, 2018.
+
+\bibitem{zhang2016colorful}
+Richard Zhang, Phillip Isola, and Alexei~A Efros.
+\newblock Colorful image colorization.
+\newblock In {\em European Conference on Computer Vision}, pages 649--666.
+  Springer, 2016.
+
+\bibitem{CycleGAN2017}
+Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei~A Efros.
+\newblock Unpaired image-to-image translation using cycle-consistent
+  adversarial networks.
+\newblock In {\em Proceedings of IEEE International Conference on Computer
+  Vision}, 2017.
+
+\end{thebibliography}

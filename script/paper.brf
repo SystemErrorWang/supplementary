@@ -1,0 +1,68 @@
+\backcite {johnson2016perceptual, CycleGAN2017, chen2018cartoongan}{{1}{1}{figure.1}}
+\backcite {chen2018cartoongan}{{1}{1}{figure.1}}
+\backcite {tomasi1998bilateral, he2010guided, farbman2008edge, min2014fast, bi20151}{{2}{2.1}{subsection.2.1}}
+\backcite {tomasi1998bilateral, he2010guided}{{2}{2.1}{subsection.2.1}}
+\backcite {farbman2008edge}{{2}{2.1}{subsection.2.1}}
+\backcite {min2014fast}{{2}{2.1}{subsection.2.1}}
+\backcite {bi20151}{{2}{2.1}{subsection.2.1}}
+\backcite {xu2015deep, fan2017generic, fan2018image}{{2}{2.1}{subsection.2.1}}
+\backcite {wu2018fast}{{2}{2.1}{subsection.2.1}}
+\backcite {felzenszwalb2004efficient, mori2005guiding, moore2008superpixel, achanta2012slic, levinshtein2009turbopixels}{{2}{2.2}{subsection.2.2}}
+\backcite {felzenszwalb2004efficient, mori2005guiding, moore2008superpixel}{{2}{2.2}{subsection.2.2}}
+\backcite {comaniciu2002mean, vedaldi2008quick, achanta2012slic, levinshtein2009turbopixels}{{2}{2.2}{subsection.2.2}}
+\backcite {felzenszwalb2004efficient}{{2}{2.2}{subsection.2.2}}
+\backcite {xu2011image, lu2012combining}{{2}{2.3}{subsection.2.3}}
+\backcite {gatys2015neural, johnson2016perceptual}{{2}{2.3}{subsection.2.3}}
+\backcite {van2004real, curtis1997computer}{{2}{2.3}{subsection.2.3}}
+\backcite {shahcheraghi2013effects}{{2}{2.3}{subsection.2.3}}
+\backcite {chen2018cartoongan}{{2}{2.3}{subsection.2.3}}
+\backcite {chen2018cartoongan}{{2}{2.3}{subsection.2.3}}
+\backcite {wang2004video}{{2}{2.3}{subsection.2.3}}
+\backcite {rosin2015non, yang2010semantics}{{2}{2.3}{subsection.2.3}}
+\backcite {gatys2015neural, johnson2016perceptual, dumoulin2016learned, huang2017arbitrary, li2017universal}{{2}{2.3}{subsection.2.3}}
+\backcite {gatys2015neural}{{2}{2.3}{subsection.2.3}}
+\backcite {johnson2016perceptual}{{2}{2.3}{subsection.2.3}}
+\backcite {dumoulin2016learned, huang2017arbitrary, li2017universal}{{3}{2.3}{subsection.2.3}}
+\backcite {goodfellow2014generative}{{3}{2.4}{subsection.2.4}}
+\backcite {pathak2016context}{{3}{2.4}{subsection.2.4}}
+\backcite {sanakoyeu2018style}{{3}{2.4}{subsection.2.4}}
+\backcite {chen2018cartoongan}{{3}{2.4}{subsection.2.4}}
+\backcite {zhang2018two}{{3}{2.4}{subsection.2.4}}
+\backcite {isola2017image, huang2018multimodal, lee2018diverse, CycleGAN2017}{{3}{2.5}{subsection.2.5}}
+\backcite {ignatov2018wespe}{{3}{2.5}{subsection.2.5}}
+\backcite {johnson2016perceptual, sanakoyeu2018style}{{3}{2.5}{subsection.2.5}}
+\backcite {chen2018cartoongan}{{3}{2.5}{subsection.2.5}}
+\backcite {li2019im2pencil}{{3}{2.5}{subsection.2.5}}
+\backcite {zhang2016colorful}{{3}{2.5}{subsection.2.5}}
+\backcite {zhang2018two}{{3}{2.5}{subsection.2.5}}
+\backcite {CycleGAN2017}{{3}{2.5}{subsection.2.5}}
+\backcite {simonyan2014very}{{3}{3}{section.3}}
+\backcite {uijlings2013selective}{{4}{3.2}{subsection.3.2}}
+\backcite {simonyan2014very}{{4}{3.2}{equation.3.2}}
+\backcite {aly2005image}{{5}{3.4}{equation.3.6}}
+\backcite {abadi2016tensorflow}{{5}{4.1}{subsection.4.1}}
+\backcite {isola2017image}{{5}{4.1}{subsection.4.1}}
+\backcite {kingma2014adam}{{5}{4.1}{subsection.4.1}}
+\backcite {karras2019style}{{5}{4.1}{subsection.4.1}}
+\backcite {CycleGAN2017}{{5}{4.1}{subsection.4.1}}
+\backcite {lin2014microsoft}{{5}{4.1}{subsection.4.1}}
+\backcite {johnson2016perceptual}{{5}{4.1}{subsection.4.1}}
+\backcite {CycleGAN2017}{{5}{4.1}{subsection.4.1}}
+\backcite {chen2018cartoongan}{{5}{4.1}{subsection.4.1}}
+\backcite {johnson2016perceptual}{{6}{4.1}{figure.9}}
+\backcite {chen2018cartoongan}{{6}{4.1}{figure.9}}
+\backcite {CycleGAN2017}{{6}{4.1}{figure.9}}
+\backcite {heusel2017gans}{{6}{4.1}{subsection.4.1}}
+\backcite {chen2018cartoongan}{{7}{9}{figure.9}}
+\backcite {johnson2016perceptual}{{7}{4.2}{table.2}}
+\backcite {CycleGAN2017}{{7}{4.2}{table.2}}
+\backcite {chen2018cartoongan}{{7}{4.2}{table.2}}
+\backcite {chen2018cartoongan}{{7}{4.2}{table.2}}
+\backcite {chen2018cartoongan}{{7}{4.2}{table.2}}
+\backcite {chen2018cartoongan}{{7}{4.2}{table.2}}
+\backcite {chen2018cartoongan}{{7}{4.2}{table.2}}
+\backcite {heusel2017gans}{{7}{4.5}{subsection.4.5}}
+\backcite {szegedy2016rethinking}{{7}{4.5}{subsection.4.5}}
+\backcite {johnson2016perceptual}{{8}{4.6}{subsection.4.6}}
+\backcite {chen2018cartoongan}{{8}{4.6}{subsection.4.6}}
+\backcite {CycleGAN2017}{{8}{4.6}{subsection.4.6}}
