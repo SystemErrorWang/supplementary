@@ -6,6 +6,11 @@ Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei~A Efros.
 \newblock In {\em Proceedings of the IEEE conference on computer vision and
   pattern recognition}, pages 1125--1134, 2017.
 
+\bibitem{maas2013rectifier}
+Andrew~L Maas, Awni~Y Hannun, and Andrew~Y Ng.
+\newblock Rectifier nonlinearities improve neural network acoustic models.
+\newblock In {\em Proc. icml}, volume~30, page~3, 2013.
+
 \bibitem{miyato2018spectral}
 Takeru Miyato, Toshiki Kataoka, Masanori Koyama, and Yuichi Yoshida.
 \newblock Spectral normalization for generative adversarial networks.
