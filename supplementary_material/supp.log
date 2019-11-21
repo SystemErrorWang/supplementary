@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.2)  21 NOV 2019 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.2)  21 NOV 2019 21:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -552,12 +552,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 
 Package hyperref Warning: Suppressing empty link on input line 75.
 
-<figures/userstudy_interface.pdf, id=20, 1336.995pt x 1138.2525pt>
+<figures/userstudy_interface.pdf, id=20, 1592.95125pt x 1138.2525pt>
 File: figures/userstudy_interface.pdf Graphic file (type pdf)
 <use figures/userstudy_interface.pdf>
 Package pdftex.def Info: figures/userstudy_interface.pdf  used on input line 90
 .
-(pdftex.def)             Requested size: 237.13594pt x 201.87189pt.
+(pdftex.def)             Requested size: 237.13594pt x 169.44525pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 101.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 101.
@@ -660,30 +660,27 @@ File: figures/compare2.pdf Graphic file (type pdf)
 <use figures/compare2.pdf>
 Package pdftex.def Info: figures/compare2.pdf  used on input line 192.
 (pdftex.def)             Requested size: 496.85625pt x 572.55637pt.
-<figures/userstudy1.pdf, id=166, 1220.5801pt x 1588.91615pt>
+<figures/userstudy1.pdf, id=166, 814.04124pt x 1052.93375pt>
 File: figures/userstudy1.pdf Graphic file (type pdf)
 <use figures/userstudy1.pdf>
 Package pdftex.def Info: figures/userstudy1.pdf  used on input line 201.
-(pdftex.def)             Requested size: 496.85625pt x 646.7806pt.
+(pdftex.def)             Requested size: 496.85625pt x 642.65819pt.
 
-LaTeX Warning: Float too large for page by 14.33278pt on input line 204.
+LaTeX Warning: Float too large for page by 10.21037pt on input line 204.
 
-<figures/userstudy2.pdf, id=167, 1220.5801pt x 1588.91615pt>
+<figures/userstudy2.pdf, id=167, 814.04124pt x 1038.88126pt>
 File: figures/userstudy2.pdf Graphic file (type pdf)
 <use figures/userstudy2.pdf>
 Package pdftex.def Info: figures/userstudy2.pdf  used on input line 209.
-(pdftex.def)             Requested size: 496.85625pt x 646.7806pt.
+(pdftex.def)             Requested size: 496.85625pt x 634.08124pt.
 
-LaTeX Warning: Float too large for page by 14.33278pt on input line 212.
+LaTeX Warning: Float too large for page by 1.63342pt on input line 212.
 
-<figures/userstudy3.pdf, id=168, 1220.5801pt x 1588.91615pt>
+<figures/userstudy3.pdf, id=168, 814.04124pt x 753.81625pt>
 File: figures/userstudy3.pdf Graphic file (type pdf)
 <use figures/userstudy3.pdf>
 Package pdftex.def Info: figures/userstudy3.pdf  used on input line 217.
-(pdftex.def)             Requested size: 496.85625pt x 646.7806pt.
-
-LaTeX Warning: Float too large for page by 14.33278pt on input line 220.
-
+(pdftex.def)             Requested size: 496.85625pt x 460.0918pt.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
 [2 <./figures/userstudy_interface.pdf>] [3 <./figures/person1.pdf>] [4 <./figur
 es/person2.pdf>] [5 <./figures/food.pdf>] [6 <./figures/scenery1.pdf>] [7 <./fi
@@ -697,16 +694,12 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 222.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 222.
 Package rerunfilecheck Info: File `supp.brf' has not changed.
 (rerunfilecheck)             Checksum: AAA9BFB5734BC167268C373731832C24;340.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 222.
  ) 
 Here is how much of TeX's memory you used:
  9813 strings out of 492616
  147361 string characters out of 6129482
- 287910 words of memory out of 5000000
+ 287815 words of memory out of 5000000
  13367 multiletter control sequences out of 15000+600000
  36650 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -717,10 +710,10 @@ exlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on supp.pdf (16 pages, 31799009 bytes).
+Output written on supp.pdf (16 pages, 37230952 bytes).
 PDF statistics:
- 771 PDF objects out of 1000 (max. 8388607)
- 447 compressed objects within 5 object streams
+ 730 PDF objects out of 1000 (max. 8388607)
+ 461 compressed objects within 5 object streams
  44 named destinations out of 1000 (max. 500000)
  32849 words of extra memory for PDF output out of 35830 (max. 10000000)
 
