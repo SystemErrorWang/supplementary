@@ -1,0 +1,15 @@
+CVPR2020 submission
+Paper ID 6791
+Learning to Cartoonize Using White-box Cartoon Representations
+This is the inference code to reproduce our results
+Place images in 'testset' folder and run 'inference.py'
+Outputs will be saved in 'output' folder
+
+Our method is implemented by tensorflow.
+we tested the code on osx, linux and windows, with tensorflow1.12, 1.13, 1.14
+To run the inference code, the following packages are needed:
+tensorflow
+tqdm
+opencv-python
+numpy 
+os

@@ -1,3 +1,7 @@
+\backcite {ronneberger2015u}{{1}{1}{section.1}}
 \backcite {maas2013rectifier}{{1}{1}{section.1}}
 \backcite {isola2017image}{{1}{1}{section.1}}
 \backcite {miyato2018spectral}{{1}{1}{section.1}}
+\backcite {johnson2016perceptual}{{2}{4}{section.4}}
+\backcite {CycleGAN2017}{{2}{4}{section.4}}
+\backcite {chen2018cartoongan}{{2}{4}{section.4}}

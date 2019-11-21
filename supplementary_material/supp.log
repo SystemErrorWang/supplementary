@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.2)  21 NOV 2019 11:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.2)  21 NOV 2019 17:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -549,20 +549,15 @@ l.65 }]
 OK, entering \scrollmode...
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 70.
+<figures/userstudy_interface.pdf, id=20, 1336.995pt x 1138.2525pt>
+File: figures/userstudy_interface.pdf Graphic file (type pdf)
+<use figures/userstudy_interface.pdf>
+Package pdftex.def Info: figures/userstudy_interface.pdf  used on input line 82
+.
+(pdftex.def)             Requested size: 237.13594pt x 201.87189pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 80.
-
-LaTeX Warning: Reference `johnson2016perceptual' on page 1 undefined on input l
-ine 80.
-
-
-LaTeX Warning: Reference `CycleGAN2017' on page 1 undefined on input line 80.
-
-
-LaTeX Warning: Reference `chen2018cartoongan' on page 1 undefined on input line
- 80.
-
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 81.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 91.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -578,152 +573,146 @@ Package microtype Info: Loading generic protrusion settings for font family
 \openout3 = `supp.brf'.
 
 )
-<figures/person1.pdf, id=139, 1223.57124pt x 1608.0075pt>
+<figures/person1.pdf, id=155, 1223.57124pt x 1608.0075pt>
 File: figures/person1.pdf Graphic file (type pdf)
 <use figures/person1.pdf>
-Package pdftex.def Info: figures/person1.pdf  used on input line 87.
+Package pdftex.def Info: figures/person1.pdf  used on input line 99.
 (pdftex.def)             Requested size: 496.85625pt x 652.95702pt.
 
 
-LaTeX Warning: Float too large for page by 15.5092pt on input line 91.
+LaTeX Warning: Float too large for page by 15.5092pt on input line 103.
 
-<figures/person2.pdf, id=140, 1223.57124pt x 1592.95125pt>
+<figures/person2.pdf, id=156, 1223.57124pt x 1592.95125pt>
 File: figures/person2.pdf Graphic file (type pdf)
 <use figures/person2.pdf>
-Package pdftex.def Info: figures/person2.pdf  used on input line 96.
+Package pdftex.def Info: figures/person2.pdf  used on input line 108.
 (pdftex.def)             Requested size: 496.85625pt x 646.84319pt.
 
-LaTeX Warning: Float too large for page by 9.39537pt on input line 100.
+LaTeX Warning: Float too large for page by 9.39537pt on input line 112.
 
-<figures/food.pdf, id=141, 1223.57124pt x 1592.95125pt>
+<figures/food.pdf, id=157, 1223.57124pt x 1592.95125pt>
 File: figures/food.pdf Graphic file (type pdf)
 <use figures/food.pdf>
-Package pdftex.def Info: figures/food.pdf  used on input line 105.
+Package pdftex.def Info: figures/food.pdf  used on input line 117.
 (pdftex.def)             Requested size: 496.85625pt x 646.84319pt.
 
-LaTeX Warning: Float too large for page by 14.39537pt on input line 109.
+LaTeX Warning: Float too large for page by 14.39537pt on input line 121.
 
-<figures/scenery1.pdf, id=142, 882.29625pt x 1138.2525pt>
+<figures/scenery1.pdf, id=158, 882.29625pt x 1138.2525pt>
 File: figures/scenery1.pdf Graphic file (type pdf)
 <use figures/scenery1.pdf>
-Package pdftex.def Info: figures/scenery1.pdf  used on input line 114.
+Package pdftex.def Info: figures/scenery1.pdf  used on input line 126.
 (pdftex.def)             Requested size: 496.85625pt x 640.99493pt.
 
-LaTeX Warning: Float too large for page by 13.54712pt on input line 118.
+LaTeX Warning: Float too large for page by 13.54712pt on input line 130.
 
-<figures/scenery2.pdf, id=143, 882.29625pt x 1138.2525pt>
+<figures/scenery2.pdf, id=159, 882.29625pt x 1138.2525pt>
 File: figures/scenery2.pdf Graphic file (type pdf)
 <use figures/scenery2.pdf>
-Package pdftex.def Info: figures/scenery2.pdf  used on input line 123.
+Package pdftex.def Info: figures/scenery2.pdf  used on input line 135.
 (pdftex.def)             Requested size: 496.85625pt x 640.99493pt.
 
-LaTeX Warning: Float too large for page by 13.54712pt on input line 127.
+LaTeX Warning: Float too large for page by 13.54712pt on input line 139.
 
-<figures/home.pdf, id=144, 1223.57124pt x 1592.95125pt>
+<figures/home.pdf, id=160, 1223.57124pt x 1592.95125pt>
 File: figures/home.pdf Graphic file (type pdf)
 <use figures/home.pdf>
-Package pdftex.def Info: figures/home.pdf  used on input line 132.
+Package pdftex.def Info: figures/home.pdf  used on input line 144.
 (pdftex.def)             Requested size: 496.85625pt x 646.84319pt.
 
-LaTeX Warning: Float too large for page by 14.39537pt on input line 135.
+LaTeX Warning: Float too large for page by 14.39537pt on input line 147.
 
-<figures/city1.pdf, id=145, 882.29625pt x 1138.2525pt>
+<figures/city1.pdf, id=161, 882.29625pt x 1138.2525pt>
 File: figures/city1.pdf Graphic file (type pdf)
 <use figures/city1.pdf>
-Package pdftex.def Info: figures/city1.pdf  used on input line 140.
+Package pdftex.def Info: figures/city1.pdf  used on input line 152.
 (pdftex.def)             Requested size: 496.85625pt x 640.99493pt.
 
-LaTeX Warning: Float too large for page by 8.54712pt on input line 143.
+LaTeX Warning: Float too large for page by 8.54712pt on input line 155.
 
-<figures/city2.pdf, id=146, 882.29625pt x 1138.2525pt>
+<figures/city2.pdf, id=162, 882.29625pt x 1138.2525pt>
 File: figures/city2.pdf Graphic file (type pdf)
 <use figures/city2.pdf>
-Package pdftex.def Info: figures/city2.pdf  used on input line 148.
+Package pdftex.def Info: figures/city2.pdf  used on input line 160.
 (pdftex.def)             Requested size: 496.85625pt x 640.99493pt.
 
-LaTeX Warning: Float too large for page by 8.54712pt on input line 151.
+LaTeX Warning: Float too large for page by 8.54712pt on input line 163.
 
-<figures/object.pdf, id=147, 882.29625pt x 1138.2525pt>
+<figures/object.pdf, id=163, 882.29625pt x 1138.2525pt>
 File: figures/object.pdf Graphic file (type pdf)
 <use figures/object.pdf>
-Package pdftex.def Info: figures/object.pdf  used on input line 156.
+Package pdftex.def Info: figures/object.pdf  used on input line 168.
 (pdftex.def)             Requested size: 496.85625pt x 640.99493pt.
 
-LaTeX Warning: Float too large for page by 8.54712pt on input line 159.
+LaTeX Warning: Float too large for page by 8.54712pt on input line 171.
 
-<figures/compare.pdf, id=148, 882.29625pt x 1052.93375pt>
+<figures/compare.pdf, id=164, 882.29625pt x 1052.93375pt>
 File: figures/compare.pdf Graphic file (type pdf)
 <use figures/compare.pdf>
-Package pdftex.def Info: figures/compare.pdf  used on input line 163.
+Package pdftex.def Info: figures/compare.pdf  used on input line 175.
 (pdftex.def)             Requested size: 496.85625pt x 592.94858pt.
-<figures/compare2.pdf, id=149, 876.27374pt x 995.72pt>
+<figures/compare2.pdf, id=165, 876.27374pt x 995.72pt>
 File: figures/compare2.pdf Graphic file (type pdf)
 <use figures/compare2.pdf>
-Package pdftex.def Info: figures/compare2.pdf  used on input line 170.
+Package pdftex.def Info: figures/compare2.pdf  used on input line 182.
 (pdftex.def)             Requested size: 496.85625pt x 564.5884pt.
-<figures/userstudy1.pdf, id=150, 1220.5801pt x 1588.91615pt>
+<figures/userstudy1.pdf, id=166, 1220.5801pt x 1588.91615pt>
 File: figures/userstudy1.pdf Graphic file (type pdf)
 <use figures/userstudy1.pdf>
-Package pdftex.def Info: figures/userstudy1.pdf  used on input line 179.
+Package pdftex.def Info: figures/userstudy1.pdf  used on input line 191.
 (pdftex.def)             Requested size: 496.85625pt x 646.7806pt.
 
-LaTeX Warning: Float too large for page by 14.33278pt on input line 182.
+LaTeX Warning: Float too large for page by 14.33278pt on input line 194.
 
-<figures/userstudy2.pdf, id=151, 1220.5801pt x 1588.91615pt>
+<figures/userstudy2.pdf, id=167, 1220.5801pt x 1588.91615pt>
 File: figures/userstudy2.pdf Graphic file (type pdf)
 <use figures/userstudy2.pdf>
-Package pdftex.def Info: figures/userstudy2.pdf  used on input line 187.
+Package pdftex.def Info: figures/userstudy2.pdf  used on input line 199.
 (pdftex.def)             Requested size: 496.85625pt x 646.7806pt.
 
-LaTeX Warning: Float too large for page by 14.33278pt on input line 190.
+LaTeX Warning: Float too large for page by 14.33278pt on input line 202.
 
-<figures/userstudy3.pdf, id=152, 1220.5801pt x 1588.91615pt>
+<figures/userstudy3.pdf, id=168, 1220.5801pt x 1588.91615pt>
 File: figures/userstudy3.pdf Graphic file (type pdf)
 <use figures/userstudy3.pdf>
-Package pdftex.def Info: figures/userstudy3.pdf  used on input line 195.
+Package pdftex.def Info: figures/userstudy3.pdf  used on input line 207.
 (pdftex.def)             Requested size: 496.85625pt x 646.7806pt.
 
-LaTeX Warning: Float too large for page by 14.33278pt on input line 198.
+LaTeX Warning: Float too large for page by 14.33278pt on input line 210.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
-[2
-
-] [3 <./figures/person1.pdf>] [4 <./figures/person2.pdf>] [5 <./figures/food.pd
-f>] [6 <./figures/scenery1.pdf>] [7 <./figures/scenery2.pdf>] [8 <./figures/hom
-e.pdf>] [9 <./figures/city1.pdf>] [10 <./figures/city2.pdf>] [11 <./figures/obj
-ect.pdf>] [12 <./figures/compare.pdf>] [13 <./figures/compare2.pdf>] [14 <./fig
-ures/userstudy1.pdf>] [15 <./figures/userstudy2.pdf>] [16 <./figures/userstudy3
-.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+[2 <./figures/userstudy_interface.pdf>] [3 <./figures/person1.pdf>] [4 <./figur
+es/person2.pdf>] [5 <./figures/food.pdf>] [6 <./figures/scenery1.pdf>] [7 <./fi
+gures/scenery2.pdf>] [8 <./figures/home.pdf>] [9 <./figures/city1.pdf>]
+[10 <./figures/city2.pdf>] [11 <./figures/object.pdf>] [12 <./figures/compare.p
+df>] [13 <./figures/compare2.pdf>] [14 <./figures/userstudy1.pdf>] [15 <./figur
+es/userstudy2.pdf>] [16 <./figures/userstudy3.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
  (./supp.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 200.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
 Package rerunfilecheck Info: File `supp.brf' has not changed.
-(rerunfilecheck)             Checksum: 298D8C9B55BD6DE5E37C16499D35ACEA;145.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 200.
+(rerunfilecheck)             Checksum: AAA9BFB5734BC167268C373731832C24;340.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
  ) 
 Here is how much of TeX's memory you used:
- 9780 strings out of 492616
- 146692 string characters out of 6129482
- 284052 words of memory out of 5000000
- 13349 multiletter control sequences out of 15000+600000
- 37120 words of font info for 143 fonts, out of 8000000 for 9000
+ 9816 strings out of 492616
+ 147391 string characters out of 6129482
+ 288181 words of memory out of 5000000
+ 13367 multiletter control sequences out of 15000+600000
+ 36769 words of font info for 151 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,9n,38p,938b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,38p,1057b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/te
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on supp.pdf (16 pages, 30110229 bytes).
+Output written on supp.pdf (16 pages, 31763115 bytes).
 PDF statistics:
- 720 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 39 named destinations out of 1000 (max. 500000)
- 32844 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 759 PDF objects out of 1000 (max. 8388607)
+ 439 compressed objects within 5 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 32849 words of extra memory for PDF output out of 35830 (max. 10000000)
 
