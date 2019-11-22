@@ -6,9 +6,9 @@
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{amssymb}
-\usepackage{float} 
-\usepackage{subfigure} 
-\usepackage{bm} 
+\usepackage{float}
+\usepackage{subfigure}
+\usepackage{bm}
 \usepackage{algorithm}
 \usepackage{tabularx}
 \usepackage{algpseudocode}
@@ -23,7 +23,7 @@
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
-    filecolor=red,      
+    filecolor=red,
     urlcolor=red,
     citecolor=green,
 }
@@ -67,12 +67,12 @@
 }]
 
 
-In this supplementary material, we show more experimental results, including the architecture of generator network and discriminator network, results of our method in different use cases, comparison between our results and cartoons in the same scenes, and examples used in the user study.The inference code with pre-trained model and some test images are also submitted for reproducibility. 
+In this supplementary material, we show more experimental results, including the architecture of generator network and discriminator network, results of our method in different use cases, comparison between our results and cartoons in the same scenes, and examples used in the user study. The inference code with pre-trained model and some test images are also submitted for reproducibility.
 
 \vspace{-0.3em}
 \section{Network Architecture}
 \vspace{-0.3em}
-We show the architecture of generator network and discriminator network in Figure \ref{fig:network_architecture}0. The generator network is a fully-convolutional U-Net \cite{ronneberger2015u} like network. We use convolution layers with stride2 for down-sample and bilinear interpolation layers for upsample to avoid checkerboard artifacts. The network consists of only three kind of layers: convolution,  Leaky ReLU (LReLU) \cite{maas2013rectifier} and bilinear-resize layers. This enables it to be easily embedded in edge devices such as mobile phones. PatchGAN \cite{isola2017image} is adapted in the discriminator network, where the last layer is a convolution layer. Each pixel in the output feature map correspond to a patch in the input image, with the size equals to the perceptive field, and is used to judge whether the patch belongs to cartoon images or generated images. Spectral normalization \cite{miyato2018spectral} is placed after every convolution layer (except the last one) to enforce Lipschitz constrain on the network and stabilize training. 
+We show the architecture of generator network and discriminator network in Figure \ref{fig:network_architecture}0. The generator network is a fully-convolutional U-Net-like \cite{ronneberger2015u} network. We use convolution layers with stride2 for down-sample and bilinear interpolation layers for upsample to avoid checkerboard artifacts. The network consists of only three kind of layers: convolution,  Leaky ReLU (LReLU) \cite{maas2013rectifier} and bilinear-resize layers. This enables it to be easily embedded in edge devices such as mobile phones. PatchGAN \cite{isola2017image} is adapted in the discriminator network, where the last layer is a convolution layer. Each pixel in the output feature map correspond to a patch in the input image, with the size equals to the perceptive field, and is used to judge whether the patch belongs to cartoon images or generated images. Spectral normalization \cite{miyato2018spectral} is placed after every convolution layer (except the last one) to enforce Lipschitz constrain on the network and stabilize training.
 
 \vspace{-0.3em}
 \section{Results in Different Use Cases}
@@ -83,7 +83,7 @@ In Section 4.1 of the main paper, we apply our method on different scenes and sh
 \vspace{-0.3em}
 \section{Comparison with Cartoon Images}
 \vspace{-0.3em}
-To further illustrate the cartoonization quality of our method, we present the comparison between the results of our method and cartoon images in the same scene. We collect several cartoon images from Shinkai Makoto's films and their counterpart real-world photos taken in the same scenes. Our method is then applied on the collected real-world photos, and results of our method and cartoon images are shown in Figure \ref{fig:compare1} and Figure \ref{fig:compare2}. 
+To further illustrate the cartoonization quality of our method, we present the comparison between the results of our method and cartoon images in the same scene. We collect several cartoon images from Shinkai Makoto's films and their counterpart real-world photos taken in the same scenes. Our method is then applied on the collected real-world photos, and results of our method and cartoon images are shown in Figure \ref{fig:compare1} and Figure \ref{fig:compare2}.
 
 \begin{figure}[t]
 %\vspace{-0.5em}
